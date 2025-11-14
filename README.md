@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="assets/hero.png" alt="BioCore Hero" width="500"/>
 <h1 align="center">🧬 BioCore 🧬</h1>
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
